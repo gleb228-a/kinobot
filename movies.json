@@ -1,0 +1,37 @@
+{
+    "id": "001",
+    "code": "1",
+    "title": "Пример фильма",
+    "year": 2023,
+    "director": "Режиссер",
+    "genre": [
+        "Драма",
+        "Фантастика"
+    ],
+    "photo_url": "",
+    "watch_url": "https://example.com/movie",
+    "added_date": "2025-02-14",
+    "ratings": [],
+    "reviews": [],
+    "movies": [
+        {
+            "id": "001",
+            "code": "VI4ZSF",
+            "title": "Десантный Батя",
+            "year": 2008,
+            "director": "Олег Штром",
+            "genre": [
+                "Военный"
+            ],
+            "photo_url": "AgACAgIAAxkBAAPoZ7B2qhvLHMJrLFHFlDyJvAP8F1YAAsvqMRtXrIBJL2xe_BSlEUYBAAMCAAN4AAM2BA",
+            "watch_url": "https://utomlennye-solntsem-lordfilm.ru/desantnyy-batya-lord/",
+            "added_date": "2025-02-15",
+            "ratings": [],
+            "reviews": []
+        }
+    ],
+    "admins": [
+        5512347514,
+        519072406
+    ]
+}
